@@ -1,0 +1,20 @@
+{
+	"name"       : "thevenusproject/tvp40",
+	"description": "Theme for the TVP Website version 4.0",
+	"keywords"   : ["wordpress"],
+	"homepage"   : "https://thevenusproject.com",
+	"license"    : "GPL-2.0+",
+	"authors"    : [
+		{
+			"name"    : "Sven Gillessen",
+			"email"   : "sven.gillessen@thevenusproject.com",
+			"homepage": "https://thevenusproject.com"
+		}
+	],
+	"support"    : {
+		"issues": "mailto:webmaster@thevenusproject.com"
+	},
+	"autoload"   : {
+		"classmap": ["libs/hybrid-core/hybrid.php"]
+	}
+}
